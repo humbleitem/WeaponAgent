@@ -1,0 +1,4 @@
+PeerNode: 1
+peerAddress: 1 140.113.207.42
+centerAddress: 2 140.113.65.238
+
