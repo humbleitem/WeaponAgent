@@ -1,0 +1,14 @@
+delayTime: 0.2
+periodTime: 0.5
+totalTime: 5
+arrx: 14
+arry: 70
+duplicate: true
+initialSolutionSet: true
+population: 200
+combineRun: 1000
+lossRate: 0.1
+algorithm: genetic
+weaponNum: 1
+------------------------------------
+
